@@ -7,12 +7,12 @@ h2{
 }
 .mynavv a {
     padding: 10px 20px;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     color:white;
 }
 
 .mynavv a:hover {
-    background-color: red;
+    background-color: rgb(112, 112, 112);
 }
 .menuheaderr {
     background-color: rgb(236, 193, 111);
