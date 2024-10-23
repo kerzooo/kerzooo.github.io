@@ -4,13 +4,13 @@ h2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:white
 }
-.mynavv a {
+.mynav a {
     padding: 10px 20px;
     background-color: rgb(255, 255, 255);
     color:white;
 }
 
-.mynavv a:hover {
+.mynav a:hover {
     background-color: rgb(112, 112, 112);
 }
 .menuheaderr {
