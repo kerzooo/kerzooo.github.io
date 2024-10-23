@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(219, 156, 111)
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mynav a {
+    padding: 10px 20px;
+    background-color: black;
+    color:white;
+}
+
+.mynav a:hover {
+    background-color: red;
+}
+.menuheader {
+    background-color: rgb(236, 193, 111);
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+
+}
